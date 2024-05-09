@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Mito no 部屋</title>
-    <link>https://mishimashinji.github.io/categories/tech/</link>
+    <link>http://localhost:1313/categories/tech/</link>
     <description>Recent content in Tech on Mito no 部屋</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mishimashinji.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Example Post</title>
-      <link>https://mishimashinji.github.io/post/newnew/</link>
+      <link>http://localhost:1313/post/newnew/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://mishimashinji.github.io/post/newnew/</guid>
+      <guid>http://localhost:1313/post/newnew/</guid>
       <description></description>
     </item>
     <item>
       <title>An Example Post</title>
-      <link>https://mishimashinji.github.io/post/test2/</link>
+      <link>http://localhost:1313/post/test2/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://mishimashinji.github.io/post/test2/</guid>
+      <guid>http://localhost:1313/post/test2/</guid>
       <description>nihao </description>
     </item>
     <item>
       <title>An Example Post</title>
-      <link>https://mishimashinji.github.io/post/test3/</link>
+      <link>http://localhost:1313/post/test3/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://mishimashinji.github.io/post/test3/</guid>
+      <guid>http://localhost:1313/post/test3/</guid>
       <description>我本是无源水，何为天外来物。</description>
     </item>
     <item>
       <title>An Example Post</title>
-      <link>https://mishimashinji.github.io/post/test4/</link>
+      <link>http://localhost:1313/post/test4/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://mishimashinji.github.io/post/test4/</guid>
+      <guid>http://localhost:1313/post/test4/</guid>
       <description>如果Tech标签没有了那我可就开香槟了</description>
     </item>
     <item>
       <title>我的第一篇</title>
-      <link>https://mishimashinji.github.io/post/test/</link>
+      <link>http://localhost:1313/post/test/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://mishimashinji.github.io/post/test/</guid>
+      <guid>http://localhost:1313/post/test/</guid>
       <description>这是我的第一篇文章，用于记录我的绘画 为什么我插入的图片不能成功显示呢 到底还是弄好了，图片路径的格式应该是/img/[imgname]</description>
     </item>
   </channel>
